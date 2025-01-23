@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.grande {
+    font-size: 2em;
+}
+
+.médio {
+    font-size: 1em;
+}
+
+.pequeno {
+    font-size: .5em;
+}

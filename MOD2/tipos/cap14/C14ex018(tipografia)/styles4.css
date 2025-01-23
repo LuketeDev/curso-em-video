@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+@font-face {
+    font-family: Daily Bubble;
+    src: url(fonts/Daily\ Bubble.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Chillen;
+    src: url(fonts/Chillen.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: ChromeSlab;
+    src: url(fonts/Chrome\ Slab\ Book\ Cover\ Cosmetic\ Hotel\ Serif\ Font.ttf) format(truetype);
+}
+
+h1 {
+    font-family: 'Caveat';
+    font-weight: normal;
+    font-size: 4em;
+}
+
+h2 {
+    font-family: Daily Bubble;
+}
+
+.p1 {
+    font-family: Chillen;
+    font-size: 2em;
+}
+
+.p2 {
+    font-family: ChromeSlab;
+    font-size: 2em;
+}
+
+.p3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
